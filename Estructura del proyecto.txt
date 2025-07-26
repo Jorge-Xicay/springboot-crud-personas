@@ -5,7 +5,7 @@
 │   │   │   └── com/
 │   │   │       └── example/
 │   │   │           └── cruddemo/
-│   │   │               ├── config/           # <- Nueva carpeta
+│   │   │               ├── config/           
 │   │   │               │   └── SwaggerConfig.java
 │   │   │               ├── controller/
 │   │   │               ├── model/
@@ -14,6 +14,4 @@
 │   │   │               └── CrudDemoApplication.java
 │   │   └── resources/
 │   │       ├── application.properties
-│   │       └── application-prod.properties   # <- Nuevo archivo
 ├── pom.xml
-└── README.md                                # <- Archivo clave
