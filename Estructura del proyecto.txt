@@ -1,0 +1,19 @@
+/crud-demo
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── cruddemo/
+│   │   │               ├── config/           # <- Nueva carpeta
+│   │   │               │   └── SwaggerConfig.java
+│   │   │               ├── controller/
+│   │   │               ├── model/
+│   │   │               ├── repository/
+│   │   │               ├── service/
+│   │   │               └── CrudDemoApplication.java
+│   │   └── resources/
+│   │       ├── application.properties
+│   │       └── application-prod.properties   # <- Nuevo archivo
+├── pom.xml
+└── README.md                                # <- Archivo clave
