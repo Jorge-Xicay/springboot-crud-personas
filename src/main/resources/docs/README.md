@@ -23,8 +23,8 @@ Este proyecto es una aplicación web desarrollada con **Spring Boot** que implem
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/usuario/mi-crud-personas.git
-cd mi-crud-personas
+git clone https://github.com/Jorge-Xicay/springboot-crud-personas.git
+cd springboot-crud-personas
 ```
 
 2. Crea la base de datos MySQL:
